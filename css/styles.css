@@ -150,6 +150,7 @@ img {
 .proceeds h3 {
     font-size: 14px;
     line-height: 1.17;
+    padding-bottom: 10px;
 }
 .proceeds p {
     color: #757575;
